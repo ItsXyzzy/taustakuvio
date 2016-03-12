@@ -12,7 +12,18 @@
          "name": "Sna Stait Aontithe",
          "thumbnail": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=db130336e8134fc3f734dbc4318f5c5e"
       },
-      
+      {
+         "author": "Jared Erondu",
+         "url": "https://images.unsplash.com/photo-1433878455169-4698e60005b1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=25f8ad2395f113fc15db051b52706573",
+         "name": "I am Free",
+         "thumbnail": "https://images.unsplash.com/photo-1433878455169-4698e60005b1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=25f8ad2395f113fc15db051b52706573"
+      },
+      {
+         "author": "Paul Itkin",
+         "url": "https://images.unsplash.com/photo-1447877085163-3cce903855cd?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c9466077853a47daa068e55a61ac3fa7",
+         "name": "Cabin in The Woods",
+         "thumbnail": "https://images.unsplash.com/photo-1447877085163-3cce903855cd?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c9466077853a47daa068e55a61ac3fa7"
+      },
       {
          "author": "Tom Wellington",
          "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
