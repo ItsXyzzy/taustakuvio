@@ -1,18 +1,6 @@
 {
    "wallpapers": [
       {
-         "author": "Jeremy Thomas",
-         "url": "https://images.unsplash.com/photo-1454817481404-7e84c1b73b4a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5f4cef962c8ddea0da93e59299350831",
-         "name": "Starry Sky",
-         "thumbnail": "https://images.unsplash.com/photo-1454817481404-7e84c1b73b4a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5f4cef962c8ddea0da93e59299350831"
-      },
-      {
-         "author": "Steve Carter X Craig Dowdall",
-         "url": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=db130336e8134fc3f734dbc4318f5c5e",
-         "name": "Sna Stait Aontithe",
-         "thumbnail": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=db130336e8134fc3f734dbc4318f5c5e"
-      },
-      {
          "author": "Claudio Lintunen",
          "url": "https://raw.githubusercontent.com/ItsXyzzy/taustakuvio/master/DIE-qhd-m.png",
          "name": "Design is Everything",
@@ -47,6 +35,18 @@
          "url": "https://raw.githubusercontent.com/ItsXyzzy/taustakuvio/master/wallpaper-4-qhd-m.png",
          "name": "Creativity Alt",
          "thumbnail": "https://raw.githubusercontent.com/ItsXyzzy/taustakuvio/master/wallpaper-4-qhd-m.png"
+      },
+      {
+         "author": "Jeremy Thomas",
+         "url": "https://images.unsplash.com/photo-1454817481404-7e84c1b73b4a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5f4cef962c8ddea0da93e59299350831",
+         "name": "Starry Sky",
+         "thumbnail": "https://images.unsplash.com/photo-1454817481404-7e84c1b73b4a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=5f4cef962c8ddea0da93e59299350831"
+      },
+      {
+         "author": "Steve Carter X Craig Dowdall",
+         "url": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=db130336e8134fc3f734dbc4318f5c5e",
+         "name": "Sna Stait Aontithe",
+         "thumbnail": "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=db130336e8134fc3f734dbc4318f5c5e"
       },
       {
          "author": "Jared Erondu",
