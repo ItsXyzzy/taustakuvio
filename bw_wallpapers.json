@@ -42,8 +42,28 @@
 			"name": "Swirl"
 		},
 		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/anxdVAu.jpg",
+			"name": "Tile"
+		},
+		{
 			"author": "Craig Dowdall",
-			"url": "http://i.imgur.com/RzY24i3.jpg",
+			"url": "http://i.imgur.com/2qEaQN8.jpg",
+			"name": "Point"
+		},
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/vBc070c.jpg",
+			"name": "Wave"
+		},
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/2qEaQN8.jpg",
+			"name": "Wood"
+		},
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/vBc070c.jpg",
 			"name": "Lines"
 		}	
 	]
