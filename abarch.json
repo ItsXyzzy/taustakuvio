@@ -1,0 +1,50 @@
+{ 
+"arch_walls": 
+	[ 
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/Imol22n.jpg",
+			"name": "Terrace"
+		},
+		{
+			"author": "Tony Webster",
+			"url": "http://i.imgur.com/ls2dhXc.jpg",
+			"name": "Pathway"
+		},	
+		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/tG47cRl.jpg",
+			"name": "Slant"
+		},	
+		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/U07Z2P8.jpg",
+			"name": "Toshima"
+		},
+		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/1FAy57v.jpg",
+			"name": "Aarhus"
+		},	
+		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/Q14Y1dZ.jpg",
+			"name": "Minato-ku"
+		},	
+		{
+			"author": "Dmitri Popov",
+			"url": "http://i.imgur.com/2OOE9zl.jpg",
+			"name": "Bubbles"
+		},
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/dIE0hTo.jpg",
+			"name": "Swirl"
+		},
+		{
+			"author": "Craig Dowdall",
+			"url": "http://i.imgur.com/RzY24i3.jpg",
+			"name": "Lines"
+		}	
+	]
+}
