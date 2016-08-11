@@ -2,6 +2,41 @@
 "wallpapers": 
 	[  
 		{
+			"author": "Aron Van de Pol",
+			"url": "https://hd.unsplash.com/photo-1469719847081-4757697d117a",
+			"name": "Tunnel"
+		},
+		{
+			"author": "Mike Wilson",
+			"url": "https://hd.unsplash.com/photo-1468743428993-661b9309fa2c",
+			"name": "Looking"
+		},
+		{
+			"author": "Jason Briscoe",
+			"url": "https://hd.unsplash.com/photo-1466837838619-c8f5b8f0c166",
+			"name": "Flat Iron"
+		},
+		{
+			"author": "Mike Wilson",
+			"url": "https://hd.unsplash.com/photo-1464245254346-067e4f8baaf2",
+			"name": "Apart"
+		},
+		{
+			"author": "Loic Djim",
+			"url": "https://hd.unsplash.com/photo-1463778996521-da8b6f00dacf",
+			"name": "Open"
+		},
+		{
+			"author": "LoboStudio Hamburg",
+			"url": "https://hd.unsplash.com/photo-1458365288895-9f58c5d8ff09",
+			"name": "Reach"
+		},
+		{
+			"author": "davide ragusa",
+			"url": "https://hd.unsplash.com/photo-1462180744199-87947354c7fe",
+			"name": "Group"
+		},
+		{
 			"author": "Google",
 			"url": "https://s32.postimg.org/l1eq1lkth/image.jpg",
 			"name": "Nougat 001"
@@ -134,12 +169,7 @@
 		{
 			"author": "samsommer",
 			"url": "https://hd.unsplash.com/photo-1458759688656-b5fa4b810ad9",
-			"name": "Some Minds"
-		},
-		{
-			"author": "Adithya Ananth",
-			"url": "http://i.imgur.com/YXSkcdD.png",
-			"name": "Wisp"
+			"name": "Down"
 		},
 		{
 			"author": "Flume",
